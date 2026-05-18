@@ -38,7 +38,8 @@
 * Mitt e Dest si scambiano ruoli continuamente (sono encoder e decoder bidirezionalmente) 
 * Feedback SEMPRE presente
 * comunicazione è complessa e simultanea dalle parti che si influenzano a vicenda. significato costruito con interazione. retrofeedback
-* Concetti: encoder\decoder, campo esperienza comune(comprensione piu accurata), Conflitti e sovrapposizioni(percezioni\interpretazioniisposte possono entrare in conflitto)
+* Concetti: encoder\decoder, campo esperienza comune(comprensione piu accurata), Conflitti e sovrapposizioni(percezioni\interpretazioni
+isposte possono entrare in conflitto)
 * limitazioni: modello non affronta influenza di contesto, cultura, aspettative sociali. Non si cura del Rumore
 
 ## Modello interattivo (dei coniugi Riley [John e Matilda])
@@ -136,18 +137,18 @@ Aristotele: Arte dell'eloquenza che insegna a parlare con efficacia persuasiva.
 # 3 Pilastri della retorica
 Orazione è composizione scritta o discorso con scopo d'informare, persuadere, commemorare
 
-### Credibilità
-* **Ethos:** Credibilità: [expertise, competenza, status, onesta, neutralità]
-* **Carisma:** [familiarità, attraenza, simpatia, assomiglianza]
-* **Controllo:** [potere, autorità]
+### **Ethos**  - Credibilità
+* **Credibilità:** expertise, competenza, status, onesta, neutralità
+* **Carisma:** familiarità, attraenza, simpatia, assomiglianza
+* **Controllo:** potere, autorità
 
-### Logica
-* **Logos:** Proposizione: [dato di fatto, congettura, giudizio di valore, indirizzo politico]
-* **Argomenti a sostegno:** [paragoni, statistiche, analogie, esempi, testimonianze, cause ed effetti]
+### **Logos** - Logica
+* **Proposizione:** dato di fatto, congettura, giudizio di valore, indirizzo politico
+* **Argomenti a sostegno:** paragoni, statistiche, analogie, esempi, testimonianze, cause ed effetti
 
-### Emozione
-* **Pathos:** Emozioni positive: [amore, virtù, sex-appeal, umorismo]
-* **Emozioni negative:** [colpa, odio, paura]
+### **Pathos** - Emozione
+* **Emozioni positive:** amore, virtù, sex-appeal, umorismo
+* **Emozioni negative:** colpa, odio, paura
 
 # 5 Canoni della retorica
 1. **Inventio:** Identificazione argomenti, prove, strategie persuasive da usare in discorso. Argomenti in base a pubblico.
@@ -280,7 +281,8 @@ Umani sono orientati verso l'elaborazione delle informazioni visive -> Presentaz
 3 Fondamenti, 4 Pilastri
 
 ## 3 Fondamenti
-* **Rapporto segnaleumore:** rapporto tra contenuto principale della slide rispetto a tutte le distrazioni meno rilevanti
+* **Rapporto segnale
+umore:** rapporto tra contenuto principale della slide rispetto a tutte le distrazioni meno rilevanti
   * regola: se togliendo un elemento, il messaggio visivo è comunque efficace, allora l'elemento è rimuovibile
   * non usare più elementi di quelli necessari
   * Sostituire gli elenchi puntati con varie strategie: griglia, icone, headings separate con icone e testi, rimuovere i dettagli e lasciare icone\label (timelines, hyperlinks con animazioni, ruota con i punti specificati)
@@ -297,7 +299,8 @@ Umani sono orientati verso l'elaborazione delle informazioni visive -> Presentaz
   * manipolazione dello spazio (vicino e lontano, vuoto o pieno)
   * scelta dei colori (chiaro\scuro, caldoreddo)
   * formattazione del testo (carattere, grassetto, colore)
-  * posizione degli elementi (isolatiaggruppati)
+  * posizione degli elementi (isolati
+aggruppati)
 * **Ripetizione:**
   * di elementi da senso di coerenza: fonts, colori, layout
   * coerenza visiva: elementi distintivi
